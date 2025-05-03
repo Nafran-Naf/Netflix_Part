@@ -78,7 +78,7 @@ function displayMovies(data){
           </div>
           <div class="details">
             <h1>${data[i].name}</h1>
-            <h2>${data[i].rating}</h2>
+            <h2>IMDB: ${data[i].rating}</h2>
             <p>Rami Malek. Jhon .Eliss Perry</p>
 
           </div>
